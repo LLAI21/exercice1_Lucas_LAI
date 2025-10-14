@@ -1,5 +1,10 @@
-def add():
+class TaskController:
+    
+    def add():
+        pass
 
-def delete():
+    def delete():
+        pass
 
-def  
+    def  display():
+        pass

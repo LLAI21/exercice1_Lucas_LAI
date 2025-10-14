@@ -1,1 +1,2 @@
-import class TaskController
+class Task:
+    pass
