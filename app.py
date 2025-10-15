@@ -8,7 +8,7 @@ controller = TaskController()
 @app.route("/", methods=["GET", "POST", "DELETE"])
 def home():
     if request.method == "GET":
-        return jsonify({"message": "Méthode GET → Bienvenue dans l'API ToDoList 📝"})
+        return jsonify({"message": "Méthode GET → Bienvenue dans l'API ToDoList"})
     elif request.method == "POST":
         return jsonify({"message": "Méthode POST → Vous avez envoyé une requête POST !"})
     elif request.method == "DELETE":
