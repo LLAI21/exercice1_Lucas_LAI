@@ -30,7 +30,7 @@ cd todolist
 
 # Install dependencies
 
-pip install flask
+pip install flask #install flask
 
 pip install -r # Install all requirement
 
