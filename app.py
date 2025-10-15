@@ -45,6 +45,6 @@ def delete_task(index):
     message="Delete success"
     return jsonify({"message": message})
 
-
+#Démarrer le FLASK
 if __name__ == "__main__":
     app.run(debug=True)
