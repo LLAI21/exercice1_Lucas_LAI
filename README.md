@@ -1,4 +1,4 @@
-Description
+# Description
 
 This project is a task management application (ToDoList) written in Python.
 It is designed following the MVC (Model-View-Controller) pattern and uses object-oriented programming to structure tasks and interactions.
